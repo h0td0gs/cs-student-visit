@@ -6,8 +6,8 @@ how to compile
 
 -ToDO:
 
-'''bash
+```bash
 
 java Hello.java
-
+```
 BSU student visit
