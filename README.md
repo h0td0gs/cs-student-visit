@@ -8,6 +8,9 @@ how to compile
 
 ```bash
 
-java Hello.java
+javac Hello.java
+```
+```bash
+java Hello
 ```
 BSU student visit
